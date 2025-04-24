@@ -9,6 +9,22 @@ Este projeto foi criado com o objetivo de estudar **Programação Orientada a Ob
 - Estudar e aplicar conceitos de **Gradle** em projetos Java.
 - Desenvolver um **jogo simples** para consolidar habilidades de lógica de programação.
 
+## 🎮 Como iniciar
+1. Clone o repositório na sua máquina:
+```bash
+git clone https://github.com/NicolasArthurDev/jogo-da-velha
+```
+2. Acesse o diretório:
+```bash
+cd jogo-da-velha/
+```
+
+3. Inicie o projeto:
+```bash
+./gradlew run -q --console=plain
+```
+
+
 ## 🚀 Funcionalidades
 
 - 🎮 Dois jogadores alternam turnos para marcar **X** e **O** no tabuleiro.
@@ -36,6 +52,3 @@ Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
 - Adicionar a possibilidade de **jogar contra um computador** com IA simples.
 - Tentar fazer um multiplayer online será? (Muito dificil ksdkskdks)
 
----
-
-Meus agradecimentos e créditos ao meu professor de Programação Orientada a Objetos, Emerson Mello
