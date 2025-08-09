@@ -51,4 +51,5 @@ Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
 - Implementar um **sistema de pontuação** para múltiplas rodadas.
 - Adicionar a possibilidade de **jogar contra um computador** com IA simples.
 - Tentar fazer um multiplayer online será? (Muito dificil ksdkskdks)
+- telnet
 
